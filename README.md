@@ -21,4 +21,4 @@ A Proteus simulation of a digital thermometer module that processes the data fro
 
 
 ### Special Thanks to 
- (This YouTube Video)[https://www.youtube.com/watch?v=DHVzvii40GQ]
+ [This YouTube Video](https://www.youtube.com/watch?v=DHVzvii40GQ)
