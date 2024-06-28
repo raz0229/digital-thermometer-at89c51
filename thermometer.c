@@ -93,8 +93,8 @@ void animate(char *carr, int size)
 			 	temp[k] = carr[j];
 				
 			}
-			printWithDelay(temp, 200);
-			i+=11;
+			printWithDelay(temp, 50);
+			i+=1;
 		}
 	}
 }
@@ -102,7 +102,7 @@ void animate(char *carr, int size)
 void main()
 {
 
-	char dat[54] = "digital thermometer by abdul rehman and abdullah - dld";
+	char dat[54] = "Digital Thermometer by Abdul Rehman and Abdullah - DLD";
 
     int i=0, j=0;
 	unsigned char x3;
