@@ -93,7 +93,7 @@ void animate(char *carr, int size)
 			 	temp[k] = carr[j];
 				
 			}
-			printWithDelay(temp, 50);
+			printWithDelay(temp, 25);
 			i+=1;
 		}
 	}
